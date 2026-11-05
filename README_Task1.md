@@ -14,8 +14,9 @@ Analyze sales transactions to calculate business metrics, compare category and p
 Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
 
 ## Dataset
-Place `Copy of codenova_sales_sample.csv` in the same folder as the notebook. If you rename the dataset, update the dataset-loading path in the notebook.
-
+## Dataset
+The project uses `Sales_Data.csv` as the input dataset.
+Keep the CSV file in the same folder as the Jupyter Notebook.
 ## How to Run
 1. Install Python and Jupyter Notebook.
 2. Install packages if needed: `pip install pandas numpy matplotlib seaborn jupyter`.
